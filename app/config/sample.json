@@ -18,16 +18,16 @@
 	},
 	"awsCredentials": {
 		"development": {
-			"accessKeyId": "xxxxxx",
-			"secretAccessKey": "xxxxxxx"
+			"accessKeyId": "AKIA4D52PALH5QXHCPDM",
+			"secretAccessKey": "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 Hide"
 		},
 		"testing": {
-			"accessKeyId": "xxxxx",
-			"secretAccessKey": "xxxxx"
+			"accessKeyId": "AKIA4D52PALH5QXHCPDM",
+			"secretAccessKey": "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 Hide"
 		},
 		"production": {
-			"accessKeyId": "xxxx",
-			"secretAccessKey": "xxxxx"
+			"accessKeyId": "AKIA4D52PALH5QXHCPDM",
+			"secretAccessKey": "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 Hide"
 		}
 	},
 	"facebook": "xxxxxx"

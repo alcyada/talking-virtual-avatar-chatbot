@@ -7,8 +7,8 @@ module.exports = () => {
 		config.awsCredentials.secretAccessKey
 	);
 
-	const botAlias = "challenge";
-	const botName = "BuyNewCar";
+	const botAlias = "TestBotAlias";
+	const botName = "DRAX";
 
 	const getLexObject = () => {
 		return  new AWS.LexRuntime({
